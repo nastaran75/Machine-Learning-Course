@@ -2,9 +2,9 @@
 
 My slides and codes in the ML summer course at Ferdowsi University of Mashhad.
 
-Most of the materials on taken from [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/) and  [introduction to scientific programming](http://btabibian.com/notebooks/learnpython/).
+Most of the materials are taken from [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/) and  [introduction to scientific programming](http://btabibian.com/notebooks/learnpython/).
 
-## Course Syllabus:
+## Course Syllabus
 
  - `session 1:` Introduction to scientific computing with Python and Numpy.
  - `session 2:` Introduction to scientific computing with Matplotlib and Scipy.
