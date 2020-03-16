@@ -2,7 +2,11 @@
 
 My slides and codes in the ML summer course at Ferdowsi University of Mashhad.
 
-Most of the materials are taken from [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/) and  [introduction to scientific programming](http://btabibian.com/notebooks/learnpython/) and [Theano Tutorial](http://deeplearning.net/software/theano/tutorial/).
+Sources:
+
+> [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
+> [introduction to scientific programming](http://btabibian.com/notebooks/learnpython/)
+> [Theano Tutorial](http://deeplearning.net/software/theano/tutorial/).
 
 ## Course Syllabus
 
